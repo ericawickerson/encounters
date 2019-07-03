@@ -1,19 +1,24 @@
-# Encounters
+# Encounters: the coincidence of space, time, and subjectivity
 
-Introduction to the conference goes here.
+> An interdisciplinary conference, 16-18 September 2019, St John's College, Cambridge, UK.
 
+This conference will bring into dialogue a range of disciplines to explore ways in which space and time interact, how they are socially formed or experienced, how they are culturally represented, and what this may say about subjectivity and perceptions of identity.
+
+The conference offers an exciting opportunity for encounters between geographers, historians, philosophers, anthropologists, and literary and cultural critics, among others, to discuss questions relating to mobility, migration, globalisation, identity perception and performance (including on social media platforms), and the transmission of experience in culture and memory, both collectively and individually.
+
+All human experience is situated in time and space but considering what this actually means for each of us as unique individuals is a much harder task and one that has occupied diverse theorists for millennia. It is possible to talk of clock time and of physical spaces, both of which give us a sense of measurability. But how does it actually feel to locate ourselves in a spatial and temporal world? How is it unique for each of us? How do spaces change over time? How can one space or one time have such different meaning for different people? What does this say about identity and subjectivity?
 
 ## Program
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu eros vitae libero consectetur dignissim a ut orci. Mauris ipsum augue, semper in gravida in, suscipit sit amet dolor. Duis viverra commodo risus facilisis hendrerit. Sed aliquam erat nunc, sit amet hendrerit nibh ullamcorper ut. Duis sed metus nec eros scelerisque facilisis. Nullam eros nisl, interdum nec sem et, scelerisque pulvinar lectus. Proin vitae sem venenatis, sagittis urna quis, convallis eros. Maecenas at laoreet arcu.
+To be confirmed.
 
 ## Registration information
 
-Etiam facilisis metus sem, sit amet elementum magna venenatis at. Nunc ac felis et libero tristique sodales eu ut ipsum. Fusce a dui nec nisi iaculis venenatis non sit amet ante. Suspendisse vel urna tempor, sodales mi vitae, accumsan ex. Maecenas id ultrices massa. Nunc sit amet leo quis ligula tempus imperdiet. Vestibulum sed mi nunc.
+To be provided shortly.
 
 ## Accommodation Suggestions
 
-Nullam vel est enim. Vestibulum consectetur facilisis ante eu vehicula. Duis vestibulum tortor sit amet velit lacinia, id vestibulum mauris suscipit. Vestibulum nunc mauris, luctus non tortor nec, iaculis mattis erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas facilisis, magna a vulputate accumsan, nisl felis rutrum dolor, euismod volutpat sem risus nec orci. Etiam facilisis metus sem, sit amet elementum magna venenatis at. Nunc ac felis et libero tristique sodales eu ut ipsum. Fusce a dui nec nisi iaculis venenatis non sit amet ante. Suspendisse vel urna tempor, sodales mi vitae, accumsan ex. Maecenas id ultrices massa. Nunc sit amet leo quis ligula tempus imperdiet. Vestibulum sed mi nunc.
+To do.
 
 ## Contact details
 
