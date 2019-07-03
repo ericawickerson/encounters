@@ -10,7 +10,7 @@ All human experience is situated in time and space but considering what this act
 
 ## Program
 
-To be confirmed.
+A draft program is available in [PDF form](program.pdf).
 
 ## Registration information
 
