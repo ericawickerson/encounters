@@ -14,7 +14,11 @@ A draft program is available in [PDF form](program.pdf).
 
 ## Registration information
 
-To be provided shortly.
+To register for the conference, two steps are required.
+
+1. Please fill in [this form](https://forms.gle/7VrjXY5EfuvzbHsQ7) with your registration information.
+
+2. Please transfer £100 (or £150 if you wish to attend the Conference Dinner) to Erica Wickerson (ehf20@cam.ac.uk) by PayPal.
 
 ## Accommodation Suggestions
 
