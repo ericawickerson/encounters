@@ -24,7 +24,7 @@ To register for the conference, two steps are required.
 
 There are several junior guest rooms availble in College, though these are limited in number. Please book by emailing: GuestRooms@joh.cam.ac.uk
 
-Alternatively, Cambridge has a wide range of hotels and bed & breakfasts, which can easily be viewed and booked on booking.com
+Alternatively, Cambridge has a wide range of hotels and bed & breakfasts, which can easily be viewed and booked on www.booking.com
 
 ## Contact details
 
