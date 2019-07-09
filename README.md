@@ -18,7 +18,7 @@ To register for the conference, two steps are required.
 
 1. Please fill in [this form](https://forms.gle/7VrjXY5EfuvzbHsQ7) with your registration information.
 
-2. Please transfer £100, which will cover all coffee breaks and food, apart from the conference dinner, or £150, which includes the Conference Dinner to Erica Wickerson (ehf20@cam.ac.uk) by PayPal.
+2. Payment of £100, which will cover coffee breaks, lunch, and a buffet dinner, OR £150 to include the Conference Dinner as well. Payment details will be sent upon registration. 
 
 ## Accommodation Suggestions
 
